@@ -6,3 +6,4 @@
     user: 
       name: testuser
       state: absent
+      remove: yes
