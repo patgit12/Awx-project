@@ -6,6 +6,4 @@ echo " "
 echo "user $newusers has been created"
 echo "$newusers        ALL=(ALL)       NOPASSWD: ALL" >> /etc/sudoers.d/mysudoers
 echo " "
-echo "Here are your sudo users"
-
-Please follow the video to check how to run it
+echo "Here are your sudo users
